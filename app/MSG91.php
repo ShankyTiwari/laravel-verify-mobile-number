@@ -12,7 +12,6 @@ class MSG91 {
 	}
 
 	private $API_KEY = 'API_KEY';
-	//private $API_KEY = '114335ASTLKgIgq9M574958c5';
 	private $SENDER_ID = "VERIFY";
 	private $ROUTE_NO = 4;
 	private $RESPONSE_TYPE = 'json';
